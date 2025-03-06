@@ -9,7 +9,7 @@ window.addEventListener('load', () => {
 const messages = [
     {
         text: "please i beg you",
-        image: "<iframe src="https://assets.pinterest.com/ext/embed.html?id=950611433851342426" height="443" width="345" frameborder="0" scrolling="no" ></iframe>"
+        image: "<iframe src="https://pin.it/4tKWWaHMh"no" ></iframe>"
     },
     {
         text: "please click the button left",
