@@ -8,16 +8,16 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "please i beg you",
+        text: "please i beg you babe :D",
         image: "https://i.pinimg.com/736x/b0/15/ba/b015ba50363ab21becbc87369a210848.jpg"
     },
     {
         text: "please click the button left",
-        image: "https://github.com/Meliyanie/gimbwal/blob/00ff253300437a023ff3d6ddb2ad90d6c052487e/Screenshot_20250306_163352.png"
+        image: "https://i.pinimg.com/736x/01/a3/59/01a359362ab6e23c8ccddee6d25d5e00.jpg"
     },
     {
-        text: "last, if \"no\" its fine",
-        image: "https://github.com/Meliyanie/gimbwal/blob/6b54b190c97d2396ceadc1a2e429dff07e60ab29/Screenshot_20250306_163524.png"
+        text: "Last babe, if \"no\" its fine",
+        image: "https://i.pinimg.com/736x/2f/ba/21/2fba21c9e97e3a714a1b6c55af7d6813.jpg"
     }
 ];
 
@@ -121,7 +121,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "HORE!! i knew you will do it again vqsghvwegdsbjs";
+    title.innerHTML = "HOORAY!! i knew you will do it again askskwegdsbjs";
     document.querySelector('img').src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/good-night-kiss-kiss.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
