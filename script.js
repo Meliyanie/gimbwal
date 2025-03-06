@@ -9,7 +9,7 @@ window.addEventListener('load', () => {
 const messages = [
     {
         text: "please i beg you",
-        image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
+        image: "https://github.com/Meliyanie/gimbwal/blob/1f207eb564bf86b90826fc026306134f2244e2d1/Screenshot_20250306_163330.png"
     },
     {
         text: "please click the button left",
