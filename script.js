@@ -13,7 +13,7 @@ const messages = [
     },
     {
         text: "please click the button left",
-        image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
+        image: "https://github.com/Meliyanie/gimbwal/blob/00ff253300437a023ff3d6ddb2ad90d6c052487e/Screenshot_20250306_163352.png"
     },
     {
         text: "last, if \"no\" its fine",
