@@ -17,7 +17,7 @@ const messages = [
     },
     {
         text: "last, if \"no\" its fine",
-        image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
+        image: "https://github.com/Meliyanie/gimbwal/blob/6b54b190c97d2396ceadc1a2e429dff07e60ab29/Screenshot_20250306_163524.png"
     }
 ];
 
